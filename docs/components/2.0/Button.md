@@ -51,7 +51,7 @@ title: 1.0 Button 按钮
         tableHead:`参数 | 说明 | 类型 | 可选值 | 默认值`,
         //表头为数组，其中每一项为字符串，代表每一行要展示的数据，写法也和md一样，中间以`|`间隔就行
         tableBody: [
-          `size | 尺寸 | String | medium / small / mini | —`,
+          `size | 尺寸 | String | large / small / default | —`,
           `type |	类型 | string |	primary / success / warning / danger / info / text | —`
         ],
       }

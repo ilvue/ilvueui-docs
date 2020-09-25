@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://www.ilvueui.com">
-        <img width="200" src="./logo.svg">
+        <img width="200" src="./src/assets/logo.svg">
     </a>
     <p>ilvue 中文文档</p>
 </p>
