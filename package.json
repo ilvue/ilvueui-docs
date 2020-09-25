@@ -1,0 +1,27 @@
+{
+  "name": "ilvueui-docs",
+  "version": "1.0.0",
+  "description": "A docs with ilvue",
+  "main": "index.js",
+  "repository": "https://github.com/ilvue/ilvue",
+  "author": "kuanglijun",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.4",
+    "@vssue/api-github-v3": "^1.0.0",
+    "@vssue/vuepress-plugin-vssue": "^1.0.2",
+    "ilvue": "^1.0.0",
+    "highlight.js": "^9.15.8",
+    "inputmask": "^3.3.11",
+    "less-loader": "^5.0.0",
+    "vue": "^2.5.2",
+    "vue-highlight.js": "^2.2.0",
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-rc.1",
+    "less": "^3.9.0"
+  }
+}
